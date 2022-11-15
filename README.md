@@ -1,21 +1,13 @@
 ### Hi there, I´m Bryan Johel 👋
-----
+
+#### About me
+<hr width="190px"/>
 🌱 I'm currently learning fullstack web develop by Factory F5 Bootcamp
 
+#### Contacte me
+<hr width="190px"/>
+<a href="https://www.linkedin.com/in/bryan-johel-panj%C3%B3n-jara-bab2b6145/">
+      <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
+    </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BryanJPJ&theme=gruvbox&border_radius=3)](https://git.io/streak-stats)
-
-<!--
-**BryanJPJ/BryanJPJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
