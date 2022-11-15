@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I´m Bryan Johel 👋
+----
+🌱 I'm currently learning fullstack web develop by Factory F5 Bootcamp
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BryanJPJ&theme=gruvbox&border_radius=3)](https://git.io/streak-stats)
 
 <!--
 **BryanJPJ/BryanJPJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
