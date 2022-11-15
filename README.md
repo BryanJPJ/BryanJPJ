@@ -1,5 +1,5 @@
 ### Hi there, I´m Bryan Johel 👋
-<hr width="190px"/>
+<hr/>
 
 #### About me
 
