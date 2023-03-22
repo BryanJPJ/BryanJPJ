@@ -1,16 +1,20 @@
-### Hi there, I´m Bryan Johel 👋
+# Hi there, I´m Bryan Johel 👋
 
 ![Violeta Verde Empresa Emergente Presentación Animada](https://user-images.githubusercontent.com/117900512/226913498-c2b3ce8e-ae5c-4dd3-b5b3-52a2c5039599.gif)
 
-#### About me
+## About me
 
 🌱 I'm currently learning fullstack web develop by Factory F5 Bootcamp
 
-#### Contacte me
+## Contacte me
 
 <a href="https://www.linkedin.com/in/bryan-johel-panj%C3%B3n-jara-bab2b6145/">
       <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
     </a>
+    
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>    
+    
     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavi1594&show_icons=true&locale=en&layout=compact" alt="xavi1594" /></p>
 
