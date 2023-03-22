@@ -1,6 +1,7 @@
 ### Hi there, I´m Bryan Johel 👋
 <hr/>
-![Bryan-johelgif](https://user-images.githubusercontent.com/114593818/199306030-040ce431-7908-4dd0-8b79-2d489a123b20.gif)
+![Violeta Verde Empresa Emergente Presentación Animada](https://user-images.githubusercontent.com/117900512/226913498-c2b3ce8e-ae5c-4dd3-b5b3-52a2c5039599.gif)
+
 #### About me
 
 🌱 I'm currently learning fullstack web develop by Factory F5 Bootcamp
