@@ -4,14 +4,18 @@
 
 ## About me
 
-🌱 I'm currently learning fullstack web develop by Factory F5 Bootcamp
+I'm currently learning fullstack web develop by Factory F5 Bootcamp
+- :desktop_computer: Im passionate about the world of web development and new technologies. 
+- :handshake: I'm constantly learning how to improve as a developer and as a person.
+- :ping_pong: I love sports and healthy life. 
 
 ## Contacte me
 
 <a href="https://www.linkedin.com/in/bryan-johel-panj%C3%B3n-jara-bab2b6145/">
       <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
     </a>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>(braiipj98@gmail.com)  
+    <br/>
+    Gmail -> braiipj98@gmail.com  
     
     
 ## Languages and Tools:
