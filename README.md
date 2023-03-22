@@ -1,5 +1,5 @@
 ### Hi there, I´m Bryan Johel 👋
-<hr/>
+
 ![Violeta Verde Empresa Emergente Presentación Animada](https://user-images.githubusercontent.com/117900512/226913498-c2b3ce8e-ae5c-4dd3-b5b3-52a2c5039599.gif)
 
 #### About me
